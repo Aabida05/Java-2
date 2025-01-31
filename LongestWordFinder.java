@@ -1,5 +1,3 @@
-package zestober;//20
-
 import java.util.*;
 
 public class LongestWordFinder {
